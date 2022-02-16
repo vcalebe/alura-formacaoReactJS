@@ -7,7 +7,7 @@ O React é uma biblioteca da linguagem JavaScript e uma das formas mais modernas
 Antes de mergulhar no mundo React, é importante ter uma base sólida em HTML, CSS e JavaScript. Conhecer Git e versionamento de código também será muito valioso para aproveitar essa imersão.
 </p>
 <br>
-<h2 align="center">Passo a passo</h2>
+<h2 align="center">Passo a passo ✅</h2>
 <p>Em aplicações que estão em desenvolvimento há mais tempo, é possível que você encontre projetos React baseados em classes, por isso é muito importante você saber o paradigma da Orientação a Objetos.
 
 Esse paradigma nos ajuda a organizar nosso código, facilitando a manutenção e legibilidade dele, o que é muito importante dentro de um time, independente do tamanho do projeto.
