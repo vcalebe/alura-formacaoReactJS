@@ -16,7 +16,7 @@ Esse paradigma nos ajuda a organizar nosso código, facilitando a manutenção e
 
 <h2>1. Programar com JavaScript Orientado a Objetos</h2>
 <ol type="I">
-<li><h3>JavaScript: Programando a Orientação a Objetos</h3></li>
+<li><h3><a href="https://github.com/vcalebe/alura-formacaoReactJS/tree/main/javaScript-programandoPOO">JavaScript: Programando a Orientação a Objetos</a></h3></li>
 <li><h3>JavaScript: Interface e heranças em Orientação a Objetos</h3></li>
 <br>
 
