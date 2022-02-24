@@ -20,10 +20,14 @@ export class Conta{
         return this._saldo;
     }
 
-    
     sacar(valor){
-        if (this._saldo >= valor) {
-            this._saldo = this._saldo - valor;
+        throw new Error("Não permitido");
+    }
+
+    _sacar(valor,taxa){
+        const valorSacado = taxa * taxa;
+        if (this._saldo >= valorSacado) {
+            this._saldo = this._saldo - valorSacado;
         }else{
             console.log("Não á saldo suficiente");
         }
@@ -39,7 +43,7 @@ export class Conta{
 
     transferir(valor,conta){
       
-        this.sacar(valor);
+        this._sacar(valor);
         conta.depositar(valor);
         
         this.exibirConta();
