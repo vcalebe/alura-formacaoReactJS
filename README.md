@@ -16,11 +16,13 @@ Esse paradigma nos ajuda a organizar nosso código, facilitando a manutenção e
 
 <h2>1. Programar com JavaScript Orientado a Objetos</h2>
 <ol type="I">
+  
 <li><h3><a href="https://github.com/vcalebe/alura-formacaoReactJS/tree/main/javaScript-programandoPOO">JavaScript: Programando a Orientação a Objetos</a></h3></li>
-<li><h3><a href="https://github.com/vcalebe/alura-formacaoReactJS/tree/main/javaScript-interface%26herancaPOO">JavaScript: Interface e heranças em Orientação a Objetos</h3></li>
+<li><h3><a href="https://github.com/vcalebe/alura-formacaoReactJS/tree/main/javaScript-interface%26herancaPOO">JavaScript: Interface e heranças em Orientação a Objetos</a></h3></li>
 <br>
 
 <h2>2. Lidar com class components</h2>
 <ol type="I">
-<li><h3>React: Entendendo como a biblioteca funciona</h3></li>
+  
+<li><h3><a href="https://github.com/vcalebe/alura-formacaoReactJS/tree/main/react-entendoOFuncionamentoLib">React: Entendendo como a biblioteca funciona</a></h3></li>
 <li><h3>React: Ciclo de vida dos componentes</h3></li>
